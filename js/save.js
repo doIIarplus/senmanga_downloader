@@ -8,7 +8,7 @@
 	var urlArr = imgUrl.split('/');
 	var len = urlArr.length;
 
-	var name = urlArr[len - 3] + "-Ch." + urlArr[len - 2] + " Pg." + urlArr[len - 1] + ".png";
+	var name = urlArr[len - 3] + "-Ch-" + urlArr[len - 2] + "-Pg-" + urlArr[len - 1] + ".png";
 
 
 
